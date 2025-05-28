@@ -1,0 +1,33 @@
+#Evita i file di ambiente virtuale
+venv/
+env/
+
+#file temporanei di sistema
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.bak
+.DS_Store
+
+#  File di Jupyter
+.ipynb_checkpoints/
+
+#File di log e output
+*.log
+*.out
+
+#File delle librerie installate
+*.pkl
+*.h5
+*.csv
+*.json
+
+#File nascosti di editor
+.vscode/
+.idea/
+*.swp
+
+#Altro (opzionale)
+*.db
