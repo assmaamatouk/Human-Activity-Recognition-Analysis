@@ -44,8 +44,4 @@ I dati utilizzati per l’analisi sono inclusi nella cartella `data/`:
 
 I modelli sono stati confrontati in termini di accuratezza, curva di apprendimento, matrice di confusione e altre metriche.
 
-##  Autore
 
-- Nome Cognome (Matricola: XXXXXXX)
-- Corso di Laurea: [Tecnologie dei sistemi informatici]
-- Anno Accademico: 2024/2025
