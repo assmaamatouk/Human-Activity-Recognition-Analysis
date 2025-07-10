@@ -14,7 +14,7 @@ L'obiettivo è costruire modelli di classificazione in grado di riconoscere l'at
 - Analisi statistica (ANOVA), PCA, Clustering
 - Jupyter Notebook
 
-## 📁 Struttura del repository
+##  Struttura del repository
 
 ```
 HAR-Activity-Recognition/
@@ -23,7 +23,7 @@ HAR-Activity-Recognition/
 ├── requirements.txt       <- Librerie necessarie
 ├── README.md              <- Descrizione del progetto
 ├── .gitignore             <- File e cartelle da ignorare in Git
-└── relazione.pdf          <- Relazione finale del progetto (opzionale)
+
 ```
 
 ##  Dataset
